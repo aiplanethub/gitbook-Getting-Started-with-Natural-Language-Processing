@@ -9,7 +9,7 @@
 
 ### Learning Resource
 
-* Please go through the below recorded session.
+* Please go through the below learning video.
 
 {% embed url="https://youtu.be/w29OKB17j5M" %}
 
