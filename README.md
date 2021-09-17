@@ -13,7 +13,7 @@ In this 10-day bootcamp, there will be:
 ### Learning Modules:
 
 * Here the learning module consist of one recorded session, which is 1:30 hrs long and is extensive to grasp and learn in one go.
-* So, we have divided the whole session into tiny modules, where we can aim to watch & learn by spending a few minutes daily.
+* So, we have divided the whole session into small tiny modules to make the learning easy.
 * If you face any doubts while learning, feel free to drop a message on \#pandas-mini-bootcamp channel on [Slack](https://join.slack.com/t/dphibootcamp/shared_invite/zt-ndk1sg93-31J2Fnzn~pLkbqMTCJrfaw).
 
 ### Assignment Guidelines
