@@ -1,4 +1,4 @@
-# Module 1
+# Module 1 - The What & The Why of NLP
 
 ### Learning Outcomes
 
