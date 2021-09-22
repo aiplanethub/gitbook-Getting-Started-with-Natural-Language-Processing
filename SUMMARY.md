@@ -8,4 +8,5 @@
 * [Module 3 - Text Representation Models](module-3-text-representation-models/README.md)
   * [Learning Resources](module-3-text-representation-models/learning-resources.md)
   * [Additional Resources](module-3-text-representation-models/additional-resources.md)
+* [Module 4: Downstream ML/DL Tasks](module-4-downstream-ml-dl-tasks.md)
 
