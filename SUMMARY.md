@@ -9,4 +9,6 @@
   * [Learning Resources](module-3-text-representation-models/learning-resources.md)
   * [Additional Resources](module-3-text-representation-models/additional-resources.md)
 * [Module 4: Downstream ML/DL Tasks](module-4-downstream-ml-dl-tasks.md)
+* [Module 5: Industry Case Studies](module-5-industry-case-studies.md)
+* [Final Assignment](final-assignment.md)
 
