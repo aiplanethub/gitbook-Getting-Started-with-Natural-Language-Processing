@@ -10,7 +10,7 @@
 * Some questions contain multiple correct answers. Only if you select all the correct answers, full marks will be awarded.
 * The date and time shown before starting the quiz are according to your time zone.
 * **Link to the quiz:** [https://dphi.tech/business/candidate/assessment/C\_UtbRAl2Dk](https://dphi.tech/business/candidate/assessment/C_UtbRAl2Dk)\*\*\*\*
-* **Submission Deadline: 27th September, 7:00 PM CET/ 10:30 PM IST.**
+* **Submission Deadline:** ~~**27th**~~ **28th September, 7:00 PM CET/ 10:30 PM IST.**
 
 ### Graded Data Challenge:
 
