@@ -15,7 +15,7 @@ In this 10-day bootcamp, there will be:
 * Here the learning module consist of one recorded session, which is 1:30 hrs long and is extensive to grasp and learn in one go.
 * So, we have divided the whole session into small tiny modules to make the learning easy.
 * The session is delivered by Dipanjan Sarkar, Data Science Lead & Google Developer Expert - Machine Learning.
-* If you face any doubts while learning, feel free to drop a message on #help channel on [Slack](https://join.slack.com/t/dphibootcamp/shared\_invite/zt-ndk1sg93-31J2Fnzn\~pLkbqMTCJrfaw).
+* If you face any issues while learning, feel free to drop a message on #help channel on [Discord](https://discord.gg/E2XfSEYm2W).
 
 ### Assignment Guidelines
 
@@ -24,7 +24,6 @@ In this 10-day bootcamp, there will be:
 
 ### Found any errors in content?
 
-* In case you found any errors or typos in the learning content, please feel free to make a Pull Request on GitHub and suggest the changes. Our team will review it and fix it.
-* Link to the repository: [https://github.com/dphi-official/Getting-Started-with-Natural-Language-Processing](https://github.com/dphi-official/Getting-Started-with-Natural-Language-Processing)
+* In case you found any errors or typos in the learning content, please feel free to click on Edit on Github, make a Pull Request and suggest the changes. Our team will review it and fix it.
 
 Happy Learning :)
