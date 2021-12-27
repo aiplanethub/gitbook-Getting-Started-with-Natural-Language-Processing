@@ -19,7 +19,7 @@
 
 * Complete the tasks/questions mentioned in the assignment and upload your notebook.&#x20;
 * Your notebook will be reviewed by your peer learners and graded accordingly.
-* **Link:**&#x20;
+* **Link:** [https://dphi.tech/challenges/185/](https://dphi.tech/challenges/185/)
 * **Submission deadline:** 6th January, 6:00 PM CET/ 10:30 PM IST
 
 ### Eligibility Criteria for Certificate:&#x20;
