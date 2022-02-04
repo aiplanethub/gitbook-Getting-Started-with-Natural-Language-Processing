@@ -6,8 +6,6 @@
 * Both of them will be added on 04th February at 6:00 PM CET/ 10:30 PM IST here with the guidelines.
 * **Need early access?: Feel free to reach out to us.**
 
-****
-
 ### Graded Quiz:
 
 * The quiz can only be submitted once.
@@ -15,14 +13,14 @@
 * Make sure you enter into the test providing the email id that you have used to register for the bootcamp.
 * Some questions contain multiple correct answers. Only if you select all the correct answers, full marks will be awarded.
 * The date and time shown before starting the quiz are according to your time zone.
-* **Link:** [https://app.skillspace.ai/candidate/assessment/pR-x6Cf5EFQ](https://app.skillspace.ai/candidate/assessment/pR-x6Cf5EFQ)
+* **Link:** [https://app.skillspace.ai/candidate/assessment/NIqhJStEc8Q](https://app.skillspace.ai/candidate/assessment/NIqhJStEc8Q)
 * **Submission deadline:** 9th February, 6:00 PM CET/ 10:30 PM IST
 
-### Graded Hands-on Exercise:
+### Graded Datathon:
 
 * Complete the tasks/questions mentioned in the assignment and upload your notebook.&#x20;
 * Your notebook will be reviewed by your peer learners and graded accordingly.
-* **Link:** [https://app.skillspace.ai/candidate/assessment/TbbaWmThB7M](https://app.skillspace.ai/candidate/assessment/TbbaWmThB7M)
+* **Link:** [https://dphi.tech/challenges/189](https://dphi.tech/challenges/189)
 * **Submission deadline:** 12th February, 6:00 PM CET/ 10:30 PM IST
 
 ### Eligibility Criteria for Certificate:&#x20;
