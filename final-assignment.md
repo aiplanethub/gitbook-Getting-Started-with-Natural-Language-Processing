@@ -18,7 +18,7 @@
 
 * Complete the tasks/questions mentioned in the assignment and upload your notebook.
 * Your notebook will be reviewed by your peer learners and graded accordingly.
-* **Link:** [https://app.skillspace.ai/candidate/assessment/bPx-9DOuYJg](https://app.skillspace.ai/candidate/assessment/bPx-9DOuYJg)
+* **Link:** We shall update the link shortly
 * **Submission deadline:** 12th May, 7:00 PM CET/ 10:30 PM IST
 
 #### Eligibility Criteria for Certificate:
