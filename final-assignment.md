@@ -18,7 +18,7 @@
 
 * Complete the tasks/questions mentioned in the assignment and upload your notebook.
 * Your notebook will be reviewed by your peer learners and graded accordingly.
-* **Link:** We shall update the link shortly
+* **Link:** [https://dphi.tech/challenges/nlp-bootcamp-graded-datathon/231/overview/about](https://dphi.tech/challenges/nlp-bootcamp-graded-datathon/231/overview/about)
 * **Submission deadline:** 12th May, 7:00 PM CET/ 10:30 PM IST
 
 #### Eligibility Criteria for Certificate:
