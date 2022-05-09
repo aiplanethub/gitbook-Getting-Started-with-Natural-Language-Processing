@@ -3,6 +3,11 @@
 #### Instructions and Guidelines for Final Assignment
 
 * There will be 1 Graded Quiz and 1 Hands-on Exercise as final assignments.
+* Ensure you use the same email which was used for registration on DPhi.
+* Here is a walkthrough video to understand using Skillspace Hubs for the assignments - [https://youtu.be/l47eJySA8gI](https://youtu.be/l47eJySA8gI)
+* For first time users on Skillspace - the entire video is relevant.
+* For second time users - please watch from 5 mins 38 seconds.&#x20;
+* Login link of Skillspace Hubs to see and attempt your tests -[https://app.skillspace.ai/candidates/hubs/auth/login](https://app.skillspace.ai/candidates/hubs/auth/login)
 
 #### Graded Quiz:
 
